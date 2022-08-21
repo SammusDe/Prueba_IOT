@@ -5,7 +5,7 @@ from pylab import *
 ADAFRUIT_IO_USERNAME = "SammusDeVennus"
 
 
-ADAFRUIT_IO_KEY = "aio_YCWs70NJtv1D4V4paELUZZquXX0M"
+ADAFRUIT_IO_KEY = "xxxxxxxxxxxxxxxxxx"
 
 
 
